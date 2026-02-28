@@ -3,6 +3,9 @@
 ---
 Sebuah instansi kecil baru berlangganan aplikasi layanan internal dari vendor lokal. Semalam vendor mengirim pesan yang (katanya) menenangkan:
 
+<img width="50%" height="50%" position="center" alt="image" src="https://github.com/user-attachments/assets/dff0bf28-5ded-403d-8195-b668d834c83f" />
+
+
 > “Minor patch ya, cuma perbaikan tampilan + optimasi performa 🙏”
 
 Pagi harinya, dashboard admin **nggak bisa login**. Semua akun admin mentok di pesan:
