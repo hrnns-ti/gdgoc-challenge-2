@@ -53,7 +53,7 @@ Karena mereka nggak punya pilihan lain, tim kamu diminta melakukan hal yang jara
 ---
 
 ## Objektif
-1. Temukan **password** yang diminta program.
+1. Temukan **password** yang diminta program. `GDGOC{...}`
 2. Dapatkan **flag/kode override** yang ditampilkan program.
 
 ---
